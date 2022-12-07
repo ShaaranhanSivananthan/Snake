@@ -1,2 +1,0 @@
-# Snake
-Game of snake
